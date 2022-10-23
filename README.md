@@ -9,7 +9,7 @@ The project is built on top of Medusa.js. Making it a headless ecommerce web app
 ## Participants
 
 Jestin @jestintab
-Merin @aihcoder
+Merin @aihdeveloper
 
 ## Installation
 
