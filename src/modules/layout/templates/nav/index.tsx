@@ -44,9 +44,9 @@ const Nav = () => {
     <div className="px-4 md:px-10 2xl:px-24 py-6 lg:py-0">
   <div className="flex items-center lg:relative">
     <div className="w-6/12 lg:w-2/12"><div className="logo">
-  <a href="index.html"
+  <a href="/"
     ><img
-      src="assets/images/logo/logo.webp"
+      src="/travel-logo.png"
       alt="logo"
       loading="lazy"
       width="125"

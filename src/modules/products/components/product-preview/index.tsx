@@ -15,27 +15,25 @@ const ProductPreview = ({
         <div>
           <Thumbnail thumbnail={thumbnail} size="full" />
           <div className="text-base-regular mt-2">
-            <span>{title}</span>
-            <div className="flex items-center gap-x-2 mt-1">
+          <h3><a className="block text-base hover:text-orange transition-all" href="#">{title}</a></h3>
+           
+          
+            <h4 className="font-bold text-md leading-none text-orange mt-3">
               {price ? (
                 <>
                   {price.price_type === "sale" && (
-                    <span className="line-through text-gray-500">
+                    <del className="font-normal text-sm mr-1 inline-block">
                       {price.original_price}
-                    </span>
+                    </del>
                   )}
-                  <span
-                    className={clsx("font-semibold", {
-                      "text-rose-500": price.price_type === "sale",
-                    })}
-                  >
+                 
                     {price.calculated_price}
-                  </span>
+                  
                 </>
               ) : (
                 <div className="w-20 h-6 animate-pulse bg-gray-100"></div>
               )}
-            </div>
+            </h4>
           </div>
         </div>
       </a>

@@ -6,6 +6,11 @@ An ecommerce store for backpacks and luggages.
 
 The project is built on top of Medusa.js. Making it a headless ecommerce web application.
 
+## Participants
+
+Jestin @jestintab
+Merin @aihcoder
+
 ## Installation
 
 #### Prerequisites
@@ -28,4 +33,3 @@ Start project
 
 [Medusajs](https://github.com/medusajs/medusa)
 
-[Snip Theme](https://elements.envato.com/sinp-single-product-ecommerce-html-template-WY7NRU8)
