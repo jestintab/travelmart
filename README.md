@@ -1,6 +1,8 @@
+![ProjectCover](https://github.com/jestintab/travelmart/blob/master/public/project-cover.jpg?raw=true)
 # 🎒TravelMart
 
 An ecommerce store for backpacks and luggages.
+
 
 ## 🚀About
 
@@ -9,7 +11,13 @@ The project is built on top of Medusa.js. Making it a headless ecommerce web app
 ## Participants
 
 Jestin @jestintab
+
 Merin @aihdeveloper
+
+
+## Preview
+
+![App Screenshot](https://github.com/jestintab/travelmart/blob/master/public/Home.gif?raw=true)
 
 ## Installation
 
